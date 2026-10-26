@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-csv"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Парсинг и генерация CSV с точкой с запятой и BOM для Excel."
+    репозиторий = "github.com/skytech-alt/skyforge-csv"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
